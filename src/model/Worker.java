@@ -4,7 +4,7 @@ import java.util.Random;
 
 public abstract class Worker {
 	
-	protected double curr_count;
+	protected int curr_count;
 	protected double gather_rate;
 	protected double special_chance;
 	

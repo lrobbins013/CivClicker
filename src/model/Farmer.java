@@ -16,8 +16,10 @@ public class Farmer extends Worker {
 
 	@Override
 	public double gatherSpecialResource() {
-		// TODO Auto-generated method stub
-		return 0;
+		
+		// r = r1 + r2 - floor(r1+r2)
+		
+		
 	}
 	
 	
